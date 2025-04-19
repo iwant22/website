@@ -1,7 +1,13 @@
 body {
     font-family: Arial, sans-serif;
     margin: 0;
-    padding-top: 70px; /* To prevent content hiding behind fixed nav */
+    padding-top: 70px;
+    background-color: white;
+}
+
+.darkmode{
+    background-color: rgb(26, 25, 25);
+    color: white;
 }
 
 /* Navbar stays at top */
